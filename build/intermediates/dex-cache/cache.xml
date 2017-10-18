@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/luai/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.23.0/fd6761f4046a8cb0455e6fa5f58e12b061e9826e/google-http-client-jackson2-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fd6761f4046a8cb0455e6fa5f58e12b061e9826e">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/google-http-client-jackson2-1.23.0_528904a9d9f3c973eff772ac3ce58c5f13d3f2be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-v4-26.0.0-alpha1_ef92f593edaab83d09660292dc2b8db6c0d9eea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.android.support-appcompat-v7-26.0.0-alpha1_3c53a72e356ac9930f32d01451c5b6eef61b84c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-ads-lite-9.8.0_a394ba2625d5c2c32c2f10492f2c0dab341544c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/guava-jdk5-17.0_91cfdfdc2c6373201a2c62daae6000c221d42ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.23.0/1bbe77a8594d7892571266392b8a7dd0a5980664/google-http-client-android-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1bbe77a8594d7892571266392b8a7dd0a5980664">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/google-http-client-android-1.23.0_df426f78b4ca9f47af40f8e648b5ff99e463c6c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-media-compat-26.0.0-alpha1_692cc7579c8ca9b59bf8b803eb33e5d0c4cd95f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-clearcut-9.8.0_d8956e25eea591404decae21bbd759d7e8693773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-core-utils-26.0.0-alpha1_39a25b31a010f7ba74c1582415858bd949fd33a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.23.0/522ea860eb48dee71dfe2c61a1fd09663539f556/google-api-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="522ea860eb48dee71dfe2c61a1fd09663539f556">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/google-api-client-1.23.0_3deaf2b7f6bc5d747cb640b6ab1938a7163dfe44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-ads-9.8.0_f22afec062c2460d01c24153fa47d29fb3c85719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-basement-9.8.0_7f00d24cb36659fbdbfe1fc7e09b6327aab76203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.23.0/8e86c84ff3c98eca6423e97780325b299133d858/google-http-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e86c84ff3c98eca6423e97780325b299133d858">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/google-http-client-1.23.0_177b248a75650da8d237915394d637b48e4710a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-fragment-26.0.0-alpha1_4e29c61d63420cee0de098ff40154651169f49f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-tasks-9.8.0_6c36ba381b3baf94a031b6d12afc26a841715f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/jsr305-2.0.1_8f333fa0be4e1613b446c8ce59297d150c37e6a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/jackson-core-2.1.3_a36a05c30aafaa0ae44dcb867c6d182a90183778.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-base-9.8.0_aab7cf3e75869c1e5d7e861bf5065ca7b0066123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_4bb27451adcfe5133e3137b7aee8d64b3ac3b287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.23.0/e57ea1e2220bda5a2bd24ff17860212861f3c5cf/google-oauth-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e57ea1e2220bda5a2bd24ff17860212861f3c5cf">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/google-oauth-client-1.23.0_6b64e5a5891c7f7535280cb45e0ac221f75a4055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/GProj/jokeactivity/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="71a71d30387b151b7d3af52355e747fca2f70055">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/GProj-jokeactivity-unspecified_a36ed4d6d06cec3710a3cc61de0b2c65e54526e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="818557cd8870ff4235327d178372495982beb6a9">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/backend-android-endpoints_6fff5a69f69c7ec491ec320135c675938a9ed530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-core-ui-26.0.0-alpha1_8ded1edbef7c075ebf5b67b3be86fdfdb9dcdf85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_1276a4e6017e84c83f0fb5da73e50208fa9da752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.23.0/b95521559faf49989ff036a5b15fd16476bdc955/google-api-client-android-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b95521559faf49989ff036a5b15fd16476bdc955">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/google-api-client-android-1.23.0_9eb93921676b01673028ae2a2066cc45f53a6c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-gass-9.8.0_8c18ab757bf42da19dd7271a12897ff9d766f45f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/support-annotations-26.0.0-alpha1_808dc8197ae77c2e27cad3511b8b2d0268ddbf84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/luai/AndroidStudioProjects/GProj/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-compat-26.0.0-alpha1_a4ab0ba9f46f00a240681d3b1d46017db1b411f8.jar" />
+    </item>
+
+</items>
