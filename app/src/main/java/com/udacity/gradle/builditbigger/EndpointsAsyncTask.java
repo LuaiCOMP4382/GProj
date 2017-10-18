@@ -3,6 +3,7 @@ package com.udacity.gradle.builditbigger;
 import android.content.Context;
 import android.content.Intent;
 import android.os.AsyncTask;
+import android.sax.EndElementListener;
 import android.util.Pair;
 import android.widget.Toast;
 
@@ -15,14 +16,14 @@ import com.student.luai.jokeactivity.JokeActivity;
 
 import java.io.IOException;
 
-public class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, String> {
+public class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, Pair<String, String>> {
     private static MyApi myApiService = null;
     private Context context;
+    private EndpointsTaskListener mListener;
     public String randomJoke;
-    public boolean finished = false;
 
     @Override
-    protected String doInBackground(Pair<Context, String>... params) {
+    protected Pair<String, String> doInBackground(Pair<Context, String>... params) {
         if(myApiService == null) {  // Only do this once
             MyApi.Builder builder = new MyApi.Builder(AndroidHttp.newCompatibleTransport(),
                     new AndroidJsonFactory(), null)
@@ -45,25 +46,38 @@ public class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, S
         String name = params[0].second;
 
         try {
-            return myApiService.tellJoke().execute().getData() + "JIREN" + name;
+            return new Pair<String, String>(myApiService.tellJoke().execute().getData(), name);
         } catch (IOException e) {
-            return e.getMessage();
+            return new Pair<String, String>(e.getMessage(), e.getMessage());
         }
     }
 
     @Override
-    protected void onPostExecute(String result) {
+    protected void onPostExecute(Pair<String, String> result) {
 
-        String[] results = result.split("JIREN");
+        randomJoke = result.first;
 
-        randomJoke = results[0];
-        finished = true;
-        if (!results[1].equals("no-intent")) {
+        if (!result.second.equals("no-intent")) {
             Intent i = new Intent(context, JokeActivity.class);
 
-            i.putExtra("the_very_funny_joke", randomJoke);
+            i.putExtra("the_very_funny_joke", result.first);
 
             context.startActivity(i);
+        } else {
+
+            //if (this.mListener != null)
+                this.mListener.onComplete(result.first);
+
         }
     }
+
+    public EndpointsAsyncTask setListener(EndpointsTaskListener l) {
+        this.mListener = l;
+        return this;
+    }
+
+    public static interface EndpointsTaskListener {
+        public void onComplete(String joke);
+    }
+
 }
